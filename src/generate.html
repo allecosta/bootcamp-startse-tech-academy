@@ -11,10 +11,11 @@
 
     <form>
         <label>
-            Nome:<input type="text" id="first" size="15" autofocus>
+            Nome: <input type="text" id="first" size="15" autofocus
+                onchange="this.form.elements['last'].disabled=false;">
         </label><br><br>
         <label>
-            Sobrenome:<input type="text" id="last" size="15">
+            Sobrenome: <input type="text" id="last" size="15" disabled>
         </label><br><br><br>
 
         <input type="button" value="Gerar Email" onclick="generateEmail(this.form);">
