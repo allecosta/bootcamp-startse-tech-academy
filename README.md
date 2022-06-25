@@ -70,7 +70,7 @@
     - Condicionais e controle de fluxo
     - Estruturas de repetição
 
-- [Modulo V - HTML Semântico e FlexBox](/docs/modulo-08)
+- [Modulo VII - HTML Semântico e FlexBox](/docs/modulo-08)
     - HTML Semântico
     - Seletores
     - FlexBox
