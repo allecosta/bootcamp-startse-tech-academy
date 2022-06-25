@@ -34,3 +34,45 @@
     - Layouts
     - Fontes e textos
     - Forms
+
+- [Modulo VI - Introdução ao GIT](/docs/modulo-06)
+    - Introdução
+    - Configuração de ambiente
+    - GitHub - GitLab - Bitbucket
+    - Init
+    - Clone
+    - Commit
+    - Add
+    - Push
+    - Pull
+    - Reset
+    - Stash
+    - Diff
+    - Pull requests
+    - Gitflow
+
+- Modulo VII - Javascript
+    - O que é JavaScript
+    - Tipos de dados
+    - Variáveis
+    - Conhecendo as variáveis
+    - Tipos dinâmicos
+    - Scope, var let e const
+    - Nomeando variáveis
+    - Agrupando declarações
+    - Objects
+    - Arrays
+    - Operadores
+    - Condicionais
+    - Manipulando dados
+    - Expressões e Operadores
+    - Operador Ternário
+    - Condicionais e controle de fluxo
+    - Estruturas de repetição
+
+- [Modulo V - HTML Semântico e FlexBox](/docs/modulo-08)
+    - HTML Semântico
+    - Seletores
+    - FlexBox
+    - Grid
+    - Bootstrap
