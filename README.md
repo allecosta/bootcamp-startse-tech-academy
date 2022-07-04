@@ -17,23 +17,102 @@
     - Lógica de Programação
 
 - [Modulo III - Aprendendo HTML e Elementos](/docs/modulo-03)
-    - HTML
-    - Elementos Semânticos
+    - Onde tudo começa
+    - Como funciona o HTML?
+    - Como criar um documento HTML
+    - Tags
+    - Atributos e Atributos Globais
+    - Hierarquia
+    - DOM
+    - Criando o seu primeiro projeto
+    - A importância da semântica
+    - Elementos para melhorar a Semântica
+    - Tags utilizadas na lista
+    - Div e Span
+    - Abbr
+    - Address
+    - Article
+    - Aside
+    - Code
+    - Details e Summary
+    - DFN
+    - Dialog
+    - Footer
     - Header
-    - Links
-    - Formatando Tabelas
+    - Main
+    - Nav
+    - Section
+    - Head
+    - Meta
+    - Favicon
+    - Meta SEO
+    - Meta Social
+    - Conhecendo a tag âncora
+    - Utilizando a tag âncora
+    - Conteúdos e URLS
+    - Como navegar pelos diretórios
+    - Tabelas
+    - Organizando Tabelas
+    - Tabelas complexa
+    - Border
+    - Border Collapse
+    - Border Spacing
+    - Caption Side
+    - Empty Cells
+    - Estilizando Tabelas
+
 
 - [Modulo IV - Aprendendo CSS](/docs/modulo-04)
-    - CSS
-    - Unidades de medida e valor
-    - Box Model
-    - Cores e Background
-    - Áudio e vídeo
+    - Conhecendo o CSS
+    - Introdução ao CSS;
+    - Sintaxe do CSS e comentários
+    - Classes e Ids;
+    - Seletores
+    - Conceito de Box model
+    - A Cascata
+    - Especificidade
+    - At rules
+    - Shorthand
+    - Funções
+    - Tipos de numéricos e unidades comuns
+    - Distâncias absolutas e relativas
+    - Porcentagens
+    - Posições
+    - Unidades em e rem
+    - Funções
+    - Espaçamentos
+    - Box Sizing
+    - Display-block-inline
+    - Margin, Padding
+    - Border-outline
+    - Keyword
+    - Hexadecimal, RGB
+    - HSL
+    - Variáveis globais
+    - Adicionando background com CSS
+    - Vídeo
+    - Áudio
+    - Iframe
 
 - [Modulo V - Elementos de Página](/docs/modulo-05)
     - Layouts
-    - Fontes e textos
-    - Forms
+    - Início da estrutura do layout
+    - Position
+    - Static
+    - Relative
+    - Absolute
+    - Fixed
+    - Element Stacking
+    - Flex
+    - Grid
+    - Font-family
+    - Font-weight
+    - Font-style
+    - Font-size
+    - Web-fonts
+    - Estrutura
+    - Tags de Entrada de Dados
+    - Criando um formulário
 
 - [Modulo VI - Introdução ao GIT](/docs/modulo-06)
     - Introdução
@@ -70,9 +149,26 @@
     - Condicionais e controle de fluxo
     - Estruturas de repetição
 
-- [Modulo VII - HTML Semântico e FlexBox](/docs/modulo-08)
+- [Modulo VIII - HTML Semântico e FlexBox](/docs/modulo-08)
     - HTML Semântico
     - Seletores
     - FlexBox
     - Grid
     - Bootstrap
+
+- [Modulo IX - Programação Orientada a Objetos](/docs/modulo-09)
+    - Introdução
+    - Conceito e pilares da Programação
+    - Estrutura de um Objeto
+    - Anatomia de uma Classe
+    - Classes em JavaScript
+    - Getters and Setters
+    - Métodos públicos e métodos privados
+    - Encapsulamento
+    - Encapsulamento em JavaScript
+    - Programação Estruturada X Orientada a Objetos
+    - Herança
+    - Polimorfismo
+    - Polimorfismo com JavaScript
+    - Abstração
+
