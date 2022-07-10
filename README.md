@@ -172,3 +172,22 @@
     - Polimorfismo com JavaScript
     - Abstração
 
+- [Modulo X - NodeJS](/docs/modulo-10)
+    - Introdução
+    - O que é back-end e front-end
+    - Definição de NodeJS
+    - Instalação do NodeJS
+    - VSCode
+    - Exercício "Hello World" em NodeJS
+    - Conteúdo complementar de apoio sobre NodeJS
+    - O problema de gerenciamento de pacotes
+    - Como funciona NPM
+    - Prática de NPM
+    - Conteúdo complementar de apoio sobre NPM
+    - Definição de JavaScript
+    - Prática de desenvolvimento em JavaScript
+    - Conteúdo complementar sobre JavaScript
+    - Criando o servidor
+    - Separando partes do layout
+    - Página e menu
+    - Passando um objeto para o ejs
