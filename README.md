@@ -191,3 +191,16 @@
     - Separando partes do layout
     - Página e menu
     - Passando um objeto para o ejs
+
+- [Modulo XI - SQL](/docs/modulo-11)
+    - Introdução
+    - O que é um banco de dados
+    - Serviços de banco de dados
+    - Conceitos
+    - Tipos
+    - Configurando o Ambiente
+    - Comando Select
+    - Operadores Relacionais
+    - Operadores Matemáticos
+    - Operadores Lógicos
+
