@@ -207,3 +207,25 @@
 - [Extra](/docs/extra)
     - Aprendendo a aprender
 
+<br>
+
+## Disciplina - Aproveitamento 
+
+| Módulo                             | Resultado (nota) |
+| -------------                      |:-------------:   |
+| Introdução, Sistemas e Aplicações  | 10               |
+| Linguagens de Programação          | 10               |
+| Aprendendo HTML e Elementos        | 10               |
+| Aprendendo CSS                     | 9                |
+| Elementos de Página                | 9                |
+| GIT                                | 10               |
+| Javascript                         | 9                |
+| HTML Semântico e FlexBox           | 10               |
+| Programação Orientada a Objetos    | 7                |
+| NodeJS                             | 8                |
+| SQL                                | 10               |
+| TOTAL (média)                      | 9,2              |
+
+<br>
+
+*Selecionado entre os 150 finalistas para disputa do Hackathon StartSe Tech Academy 2022* 
