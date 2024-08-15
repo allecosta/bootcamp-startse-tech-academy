@@ -2,6 +2,8 @@
     <img src="startse.png" alt="logo">
 </div><br>
 
+## 📚 Cronograma
+
 - [Modulo I - Introdução, Sistemas e Aplicações](/docs/modulo-01)
   - O que é programar?
   - Hardware
@@ -209,7 +211,7 @@
 
 <br>
 
-## Disciplina - Aproveitamento 
+## 📈 Disciplina - Aproveitamento 
 
 | Módulo                             | Resultado (nota) |
 | -------------                      |:-------------:   |
@@ -228,4 +230,17 @@
 
 <br>
 
-*Selecionado entre os 150 finalistas para disputa do Hackathon StartSe Tech Academy 2022* 
+*Selecionado entre os 150 finalistas para disputa do Hackathon StartSe <tech/academy> 2022* 
+
+<br>
+
+## 💻 Projetos
+
+- [Desafio <tech/academy>](https://github.com/allecosta/project-startse-tech-academy)
+
+    - O desafio consiste em refatorar um projeto realizado em live coding, utilizando
+tags semânticas, com critérios e pesos.
+
+- [Hackathon StartSe 2022](https://github.com/allecosta/florestarefa)
+
+    - Projeto desenvolvido no hackathon e encerramento da 1º turma da StartSe <tech/academy> 2022
